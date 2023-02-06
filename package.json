@@ -1,0 +1,17 @@
+{
+  "name": "cypress-issue-22825",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^5.16.1",
+    "cypress": "^12.5.1",
+    "serve": "^14.2.0",
+    "svelte": "^3.49.0",
+    "svelte-loader": "^3.1.3"
+  }
+}
